@@ -1,0 +1,132 @@
+[
+  {
+    "id": 100,
+    "name": "Singularity F [Flame Contaminated City: Fuyuki]",
+    "banner": "https://static.atlasacademy.io/NA/Banner/questboard_cap100.png"
+  },
+  {
+    "id": 101,
+    "name": "First Singularity [Hundred Years' War of the Evil Dragons: Orleans]",
+    "banner": "https://static.atlasacademy.io/NA/Banner/questboard_cap101.png"
+  },
+  {
+    "id": 102,
+    "name": "Second Singularity [Eternal Madness Empire: Septem]",
+    "banner": "https://static.atlasacademy.io/NA/Banner/questboard_cap102.png"
+  },
+  {
+    "id": 103,
+    "name": "Third Singularity [Sealed Ends of the Four Seas: Okeanos]",
+    "banner": "https://static.atlasacademy.io/NA/Banner/questboard_cap103.png"
+  },
+  {
+    "id": 104,
+    "name": "Fourth Singularity [The Mist City: London]",
+    "banner": "https://static.atlasacademy.io/NA/Banner/questboard_cap104.png"
+  },
+  {
+    "id": 105,
+    "name": "Fifth Singularity [North American Myth War: E Pluribus Unum]",
+    "banner": "https://static.atlasacademy.io/NA/Banner/questboard_cap105.png"
+  },
+  {
+    "id": 106,
+    "name": "Sixth Singularity [Divine Realm of the Round Table: Camelot]",
+    "banner": "https://static.atlasacademy.io/NA/Banner/questboard_cap106.png"
+  },
+  {
+    "id": 107,
+    "name": "Seventh Singularity [Absolute Demonic Front: Babylonia]",
+    "banner": "https://static.atlasacademy.io/NA/Banner/questboard_cap107.png"
+  },
+  {
+    "id": 108,
+    "name": "Final Singularity [The Grand Temple of Time: Solomon]",
+    "banner": "https://static.atlasacademy.io/NA/Banner/questboard_cap108.png"
+  },
+  {
+    "id": 201,
+    "name": "Pseudo-Singularity I: Quarantined Territory of Malice, Shinjuku",
+    "banner": "https://static.atlasacademy.io/NA/Banner/questboard_cap201.png"
+  },
+  {
+    "id": 202,
+    "name": "Pseudo-Singularity II: [Subterranean World of Folklore, Agartha]",
+    "banner": "https://static.atlasacademy.io/NA/Banner/questboard_cap202.png"
+  },
+  {
+    "id": 203,
+    "name": "Pseudo-Parallel World [The Stage of Carnage, Shimousa]",
+    "banner": "https://static.atlasacademy.io/NA/Banner/questboard_cap203.png"
+  },
+  {
+    "id": 204,
+    "name": "Pseudo-Singularity IV [The Forbidden Advent Garden, Salem]",
+    "banner": "https://static.atlasacademy.io/NA/Banner/questboard_cap204.png"
+  },
+  {
+    "id": 301,
+    "name": "Lostbelt No.1 [Permafrost Empire, Anastasia]",
+    "banner": "https://static.atlasacademy.io/NA/Banner/questboard_cap301.png"
+  },
+  {
+    "id": 302,
+    "name": "Lostbelt No.2 [The Eternal Icy Fire Century, Götterdämmerung]",
+    "banner": "https://static.atlasacademy.io/NA/Banner/questboard_cap302.png"
+  },
+  {
+    "id": 303,
+    "name": "Lostbelt No.3 [The Synchronized Intellect Nation, SIN]",
+    "banner": "https://static.atlasacademy.io/NA/Banner/questboard_cap304.png"
+  },
+  {
+    "id": 304,
+    "name": "Lostbelt No.4 [Saṃsāra of Genesis and Terminus, Yugakshetra]",
+    "banner": "https://static.atlasacademy.io/NA/Banner/questboard_cap305.png"
+  },
+  {
+    "id": 305,
+    "name": "Lostbelt No.5 [Ancient Ocean of the Dreadnought Gods, Atlantis]",
+    "banner": "https://static.atlasacademy.io/NA/Banner/questboard_cap307.png"
+  },
+  {
+    "id": 306,
+    "name": "Lostbelt No.5 [Interstellar Mountainous City, Olympus]",
+    "banner": "https://static.atlasacademy.io/NA/Banner/questboard_cap308.png"
+  },
+  {
+    "id": 307,
+    "name": "Naraka Mandala, Heian-kyo",
+    "banner": "https://static.atlasacademy.io/NA/Banner/questboard_cap309.png"
+  },
+  {
+    "id": 308,
+    "name": "Lostbelt No.6 [Fae Round Table Domain, Avalon le Fae]",
+    "banner": "https://static.atlasacademy.io/NA/Banner/questboard_cap312.png"
+  },
+  {
+    "id": 309,
+    "name": "Anti-Primate Biosphere, Tunguska Sanctuary",
+    "banner": "https://static.atlasacademy.io/NA/Banner/questboard_cap313.png"
+  },
+  {
+    "id": 310,
+    "name": "Realm of the Thanatos Impulse, Traum",
+    "banner": "https://static.atlasacademy.io/NA/Banner/questboard_cap315.png"
+  },
+  {
+    "id": 311,
+    "name": "Lostbelt No.7: Golden Sea of Trees, Nahui Mictlān",
+    "banner": "https://static.atlasacademy.io/NA/Banner/questboard_cap317.png"
+  },
+  {
+    "id": 402,
+    "name": "Zero Compass Inner Domain, Paper Moon",
+    "banner": "https://static.atlasacademy.io/NA/Banner/questboard_cap402.png"
+  },
+  {
+    "id": 403,
+    "name": "The Inescapable Gehenna, Id",
+    "banner": "https://static.atlasacademy.io/NA/Banner/questboard_cap403.png"
+  }
+]
